@@ -8,6 +8,10 @@
 * [Getting Started with Redux - Course by @dan_abramov](https://egghead.io/courses/getting-started-with-redux)
 
 * [React Fundamentals](https://tylermcginnis.com/courses/react-fundamentals/) by [Tyler Mcginnis](https://tylermcginnis.com/)
+
+* [What thew flexbox!](https://flexbox.io/)
+
+* [Flexbox froggy](http://flexboxfroggy.com/)
 ### Articles
 
 
